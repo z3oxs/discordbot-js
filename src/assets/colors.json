@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 {
     "red": "#FF0000",
     "blue": "#2F00FF",
     "green": "#11CC00",
     "yellow": "F0FF00",
     "magenta": "#762FD2"
-=======
-{
-    "red": "#FF0000",
-    "blue": "#2F00FF",
-    "green": "#11CC00",
-    "yellow": "F0FF00",
-    "magenta": "#762FD2"
->>>>>>> 062f6d30c15a44857f4fff07e56cc18cbc7f5e74
 }

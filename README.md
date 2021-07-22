@@ -3,13 +3,16 @@
 - A discord bot written in JavaScript with NodeJS.
 
 <br><br>
+<img src="screenshot.png" width="600">
+
+<br><br>
 ⚙️ Used technologies:
 - NodeJS.
 
 <br><br>
 🔧 Setup:
 - Clone this repository:<br>
-`git clone https://github.com/z3ox1s/discordbot` or Download ZIP and unzip;<br><br>
+`git clone https://github.com/z3ox1s/discordbot-js` or Download ZIP and unzip;<br><br>
 - Move to repository:<br>
 `cd discordbot`;<br><br>
 - Install all NodeJS dependencies:<br>
