@@ -1,23 +1,10 @@
 <br><br>
 ❓ What is this?
-<<<<<<< HEAD
-- A discord bot written in JavaScript with NodeJS Framework.
-=======
 - A discord bot written in JavaScript with NodeJS.
->>>>>>> 062f6d30c15a44857f4fff07e56cc18cbc7f5e74
 
 <br><br>
 ⚙️ Used technologies:
 - NodeJS.
-
-<br><br>
-<<<<<<< HEAD
-📋 Changelog (1.0.2b):
-- Simple refactor
-=======
-📋 Changelog (1.0.2):
-- Complete refactor
->>>>>>> 062f6d30c15a44857f4fff07e56cc18cbc7f5e74
 
 <br><br>
 🔧 Setup:
