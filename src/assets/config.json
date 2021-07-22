@@ -1,0 +1,13 @@
+{
+    "token": "YOUR TOKEN HERE",
+    "prefix": "!",
+    "owner": {
+        "name": "YOUR NAME",
+        "id": "YOUR ID"
+    },
+<<<<<<< HEAD
+    "commandCount": "28"
+=======
+    "commandCount": "30"
+>>>>>>> 062f6d30c15a44857f4fff07e56cc18cbc7f5e74
+}

@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot",
+<<<<<<< HEAD
+  "version": "1.0.2b",
+=======
+  "version": "1.0.2",
+>>>>>>> 062f6d30c15a44857f4fff07e56cc18cbc7f5e74
+  "description": "Discord bot written in JS",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "z3ox1s",
+  "license": "MIT",
+  "dependencies": {
+<<<<<<< HEAD
+    "colors": "^1.4.0",
+=======
+>>>>>>> 062f6d30c15a44857f4fff07e56cc18cbc7f5e74
+    "discord.js": "^12.5.3",
+    "figlet": "^1.5.0",
+    "mathjs": "^9.4.3",
+    "pretty-bytes": "^5.6.0",
+    "systeminformation": "^5.7.4",
+    "wikipedia": "^1.1.1"
+  }
+}
