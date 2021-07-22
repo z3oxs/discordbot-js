@@ -1,9 +1,8 @@
+<img src="screenshot.png" width="600">
+
 <br><br>
 ❓ What is this?
 - A discord bot written in JavaScript with NodeJS.
-
-<br><br>
-<img src="screenshot.png" width="600">
 
 <br><br>
 ⚙️ Used technologies:
